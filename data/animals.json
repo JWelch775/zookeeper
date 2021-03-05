@@ -135,6 +135,17 @@
         "fiesty"
       ],
       "id": "13"
+    },
+    {
+      "name": "Lilly",
+      "species": "Canine",
+      "diet": "omnivore",
+      "personalityTraits": [
+        "hungry",
+        "loving",
+        "goofy"
+      ],
+      "id": "14"
     }
   ]
 }
